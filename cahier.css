@@ -1,0 +1,19 @@
+div.cahier
+{
+   
+   padding-left: 3cm;
+   background-image: url("/Users/theotruvelot/Downloads/TpAppliWeb/BaseImages/fond_spirale.gif");
+   background-repeat: repeat-y;
+
+}
+.cahier p {
+
+
+    text-indent: 3cm;
+}
+.cahier li {
+
+list-style-image: url("/Users/theotruvelot/Downloads/TpAppliWeb/BaseImages/puce.png");
+
+
+}

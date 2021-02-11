@@ -1,0 +1,23 @@
+p
+{
+    text-align: justify;
+    color: green;
+
+
+}
+table
+{
+width: 90%;
+border-width: 1px;
+border-color: black;
+border-style: solid;
+
+}
+td, th
+{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+
+}
+th.thead  

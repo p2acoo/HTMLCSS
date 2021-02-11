@@ -1,0 +1,40 @@
+h1
+{
+    text-align: center;
+}
+p.intro
+{
+    text-align: justify;
+}
+div.poeme
+{
+    text-align: center;
+    font-weight: bold;
+    border: black;
+    background-color: white;
+    border-style: double;
+    border-width: thick;
+
+
+}
+a
+{
+    color: red;
+    font-weight: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p.signature
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+
+
+}
+div.note
+{
+    color: blue;
+    font-weight: 75%;
+    text-align: left;
+
+}

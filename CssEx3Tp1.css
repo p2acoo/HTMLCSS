@@ -1,0 +1,16 @@
+h1
+{
+    text-align: center;
+
+}
+h2
+{
+    text-align: left;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p
+{
+    text-align: justify;
+}

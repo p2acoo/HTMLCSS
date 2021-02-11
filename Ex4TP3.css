@@ -1,0 +1,24 @@
+h1
+{
+    text-align: center;
+    font-variant: small-caps;
+    color: navy;
+}
+div.poeme 
+{
+    width: 30cm;
+    margin: auto;
+}
+P.signature
+{
+    text-align: right;
+    font-style: italic;
+
+
+}
+body {
+    border-style: outset;
+    border-width: 10px;
+    margin: 2%;
+    padding:5%;
+}
